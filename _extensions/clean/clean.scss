@@ -357,3 +357,26 @@ $selection-bg: #26351c !default;
 .reveal .columns6040 div.column:not(:first-child) {
   width: 40%;
 }      
+
+// change footer / on-page citation
+.reveal .footer > * {
+  font-size: 0.7em !important;
+  color: $jet;
+}
+.reveal .cite-bottom-fixed {
+  position: absolute !important;
+  bottom: 0px !important; 
+  left: 0px !important;
+  width: 100%;
+  font-size: 0.7em;
+  color: $jet;
+}
+.reveal .cite-bottom-right-fixed {
+  position: absolute !important;
+  bottom: 0px !important; 
+  right: 0px !important;
+  text-align: right;
+  width: auto;
+  font-size: 0.7em;
+  color: $jet;
+}

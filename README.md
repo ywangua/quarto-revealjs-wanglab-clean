@@ -8,9 +8,9 @@ This is a fork of [grantmcdermott/quarto-revealjs-clean](https://github.com/gran
 ## Use
 
 ```bash
-quarto install extension ywangua/quarto-revealjs-clean
+quarto install extension ywangua/quarto-revealjs-wanglab-clean
 ```
 
 ```bash
-quarto use template ywangua/quarto-revealjs-clean
+quarto use template ywangua/quarto-revealjs-wanglab-clean
 ```
